@@ -102,3 +102,8 @@ A: Users with the deleted role will be assigned the default WordPress role (usua
 
 **Q: Is this plugin compatible with other user management plugins?**
 A: IP User Roles is designed to be compatible with standard WordPress functions. However, some advanced user management plugins might conflict with the multiple role functionality.
+
+## Changelog
+
+1.0.0 - 30-04-2025
+- Start Release
