@@ -1,0 +1,104 @@
+/**
+ * IP User Roles Plugin Styles
+ *
+ * @since 1.0.0
+ */
+
+.ip-user-roles-admin {
+    margin-top: 20px;
+}
+
+.ip-user-roles-admin .form-table th {
+    width: 200px;
+}
+
+.ip-user-roles-list {
+    margin-top: 15px;
+}
+
+.ip-user-roles-list table {
+    margin-top: 15px;
+}
+
+/* Role checkboxes in user profile */
+.user-role-wrap label {
+    display: block;
+    margin: 5px 0;
+}
+
+/* Role delete button */
+.ip-user-roles-list .button-small {
+    margin-right: 5px;
+}
+
+.ip-user-roles-list .delete-role:hover {
+    color: #dc3232;
+    border-color: #dc3232;
+}
+
+/* Modal form styles */
+.ip-user-roles-modal-content {
+    padding: 10px 20px;
+}
+
+.ip-user-roles-modal-content h2 {
+    margin-top: 0;
+    padding-top: 10px;
+}
+
+.ip-user-roles-modal-content .submit-wrapper {
+    position: relative;
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #ddd;
+}
+
+/* Submit container with buttons and status message */
+.ip-user-roles-modal-content .submit-container {
+    display: flex;
+    align-items: center;
+}
+
+.ip-user-roles-modal-content .submit {
+    margin: 0;
+    padding: 0;
+}
+
+.ip-user-roles-modal-content .status-message {
+    margin-left: 15px;
+    padding: 5px 8px;
+    border-radius: 3px;
+    flex-grow: 1;
+}
+
+.ip-user-roles-modal-content .spinner {
+    float: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    vertical-align: middle;
+    visibility: visible;
+    opacity: 0;
+}
+
+.ip-user-roles-modal-content .spinner.is-active {
+    opacity: 1;
+}
+
+.ip-user-roles-modal-content .status-message.success {
+    background-color: #f0f8e6;
+    color: #46b450;
+    border: 1px solid #46b450;
+}
+
+.ip-user-roles-modal-content .status-message.error {
+    background-color: #fbeaea;
+    color: #dc3232;
+    border: 1px solid #dc3232;
+}
+
+/* ThickBox modal overrides */
+#TB_ajaxContent {
+    width: auto !important;
+    height: auto !important;
+    max-width: 95% !important;
+}

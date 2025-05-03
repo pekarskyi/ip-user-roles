@@ -1,0 +1,169 @@
+# Copyright (C) 2023 InwebPress
+# This file is distributed under the same license as the IP User Roles plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: IP User Roles 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ip-user-roles\n"
+"POT-Creation-Date: 2023-04-30T12:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: WP-CLI 2.7.0\n"
+"X-Domain: ipuroles\n"
+
+#. Plugin Name of the plugin
+msgid "IP User Roles"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/inwebpress/ip-user-roles"
+msgstr ""
+
+#. Description of the plugin
+msgid "Allows creating new user roles with subscriber level permissions and supports multiple role assignments"
+msgstr ""
+
+#. Author of the plugin
+msgid "InwebPress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://inwebpress.com"
+msgstr ""
+
+#: admin/class-ip-user-roles-admin.php:72
+#: admin/class-ip-user-roles-admin.php:73
+msgid "IP User Roles"
+msgstr ""
+
+#: admin/class-ip-user-roles-admin.php:82
+#: admin/class-ip-user-roles-admin.php:83
+msgid "Roles"
+msgstr ""
+
+#: admin/class-ip-user-roles-admin.php:92
+#: admin/class-ip-user-roles-admin.php:93
+msgid "Add New Role"
+msgstr ""
+
+#: admin/class-ip-user-roles-admin.php:102
+#: admin/class-ip-user-roles-admin.php:103
+#: admin/class-ip-user-roles-admin.php:123
+msgid "Settings"
+msgstr ""
+
+#: admin/class-ip-user-roles-admin.php:172
+msgid "Role name and slug cannot be empty"
+msgstr ""
+
+#: admin/class-ip-user-roles-admin.php:193
+msgid "Role created successfully"
+msgstr ""
+
+#: admin/class-ip-user-roles-admin.php:196
+msgid "Error creating role"
+msgstr ""
+
+#: admin/class-ip-user-roles-admin.php:211
+msgid "Settings updated successfully"
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-display.php:24
+msgid "Custom Roles"
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-display.php:26
+msgid "Below is a list of custom roles created with IP User Roles plugin."
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-display.php:29
+msgid "Add New Role"
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-display.php:36
+msgid "Role Name"
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-display.php:37
+msgid "Role Slug"
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-display.php:38
+msgid "Created"
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-display.php:39
+msgid "Actions"
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-display.php:47
+msgid "Are you sure you want to delete this role?"
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-display.php:48
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-display.php:55
+msgid "No custom roles found. Create your first custom role!"
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-new-role.php:30
+msgid "Role Name"
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-new-role.php:34
+msgid "The name of the role, e.g. \"Content Editor\""
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-new-role.php:40
+msgid "Role Slug"
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-new-role.php:44
+msgid "The slug for the role, e.g. \"content_editor\". Use only lowercase letters, numbers, and underscores."
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-new-role.php:50
+msgid "Permissions"
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-new-role.php:53
+msgid "This role will have Subscriber-level permissions."
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-new-role.php:59
+msgid "Create Role"
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-settings.php:30
+msgid "Uninstall Options"
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-settings.php:35
+msgid "Delete database tables when plugin is deleted"
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-settings.php:37
+msgid "If checked, all plugin data will be permanently removed when the plugin is deleted."
+msgstr ""
+
+#: admin/partials/ip-user-roles-admin-settings.php:43
+msgid "Save Settings"
+msgstr ""
+
+#: includes/class-ip-user-roles-profile.php:44
+msgid "Multiple Roles"
+msgstr ""
+
+#: includes/class-ip-user-roles-profile.php:47
+#: includes/class-ip-user-roles-profile.php:50
+msgid "User Roles"
+msgstr ""
+
+#: includes/class-ip-user-roles-profile.php:58
+msgid "Select one or more roles for this user"
+msgstr ""
