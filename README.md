@@ -2,6 +2,8 @@
 
 A WordPress plugin that allows creating custom user roles with subscriber-level permissions and supports multiple role assignments to users.
 
+[Українською](/README_UA.md)
+
 ## Description
 
 IP User Roles extends WordPress's built-in user role management system by providing a simple yet powerful interface to create custom roles and assign multiple roles to users. With this plugin, site administrators can create specialized roles for different team members without having to install complex user management systems.
@@ -100,15 +102,3 @@ A: Users with the deleted role will be assigned the default WordPress role (usua
 
 **Q: Is this plugin compatible with other user management plugins?**
 A: IP User Roles is designed to be compatible with standard WordPress functions. However, some advanced user management plugins might conflict with the multiple role functionality.
-
-## License
-
-This plugin is licensed under the GPL v2 or later.
-
-## Credits
-
-Developed by InwebPress. Visit our website at [https://inwebpress.com](https://inwebpress.com).
-
-## Support
-
-For support requests, please visit [https://github.com/inwebpress/ip-user-roles](https://github.com/inwebpress/ip-user-roles) or contact us through our website.
